@@ -31,24 +31,24 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
-global.region = "Indonesia" //bebas
+global.botname = "Md-BOt" //namabot kalian
+global.ownername = "ᴹᴿ᭄ ᴰᴼᴹᴵᴻᴵᴄ ×፝֟͜×" //nama kalian
+global.myweb = "http://wa.me/918593074023" //bebas asal jan hapus
+global.youtube = "http://instagram.com/_munavir._" //bebas asal jan hapus
+global.myweb2 = "http://wa.me/918593074023" //bebas
+global.email = "MdBot@gmail.com" //bebas
+global.region = "India" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "622150996855"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.premium = ['918590822912'] //premium user
+global.owner = ["918593074023", "622150996855"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "918593074023" // nomor wa kalian
+global.ownernomerr = "+918593074023" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© Md-Bot' //sticker wm ubah
+global.author = 'Dominic' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -122,15 +122,15 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 global.sp = '⭔'
 global.mess = {
-   sukses: '🤗Done, Oke Desu~',
-   admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-   botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-   owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
+   sukses: 'ꜱᴜᴄᴄᴇꜱꜱ',
+   admin: 'ᴀᴅᴅᴍɪɴ ᴄᴀᴍᴍᴀɴᴅ😏',
+   botAdmin: 'ᴀᴅᴅᴍɪɴ ᴄᴀᴍᴍᴀɴᴅ !',
+   owner: 'ᴏᴡɴᴇʀ ᴄᴀᴍᴍᴀɴᴅ !',
    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
    private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
    bot: 'Fitur Khusus Pengguna Nomor Bot',
    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-   wait: '⏳ Sedang Di Proses',
+   wait: 'ᴡᴀɪᴛ ᴩʀᴏᴄᴇꜱꜱ',
    lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
    example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
