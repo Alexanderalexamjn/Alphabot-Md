@@ -50,7 +50,7 @@ global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '© Md-Bot' //sticker wm ubah
 global.author = 'Dominic' //sticker wm ganti nama kalian
 global.sessionName = 'session'
-global.typemenu = 'document'
+global.typemenu = 'katalog'
 global.multiplier = 69
 global.limitawal = {
    premium: "10000",
