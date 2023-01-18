@@ -1,6 +1,6 @@
 /**
 	@ No Re Upload, recode sendiri base nya klo mau üòè
-	@ Sc no enc silahkan cek http://instagram.com/_munavir._
+	@ Sc no enc silahkan cek https://github.com/DikaArdnt/Hisoka-Morou
  
 	 „Ä? TqTo „Ä?
 	@ My God
@@ -3214,7 +3214,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                })
             }
             if (typemenu == 'list') {
-               sendListMenu(alpha, m.chat, `‚ï≠‚îÄ‚¨£„Ä? _*INFO USER*_ „Äç‚¨£\n‚î?  *????* : ${pushname}\n‚î?  *??????* : ${sender.split("@")[0]}\n‚î?  *??????* : ${isCreator? ` OwnerÔ∏? ${botname}` :`User ${botname}`}\n‚ï∞‚îÄ‚¨£\n\n‚ï≠‚îÄ‚¨£„Ä? _*INFO BOT*_ „Äç‚¨£\n‚î? *??????* :  ${prefix} \n‚î? *??? ????* : ${botname}\n‚î? *?????* : ${ownername}\n‚î? *????* : ${alpha.public ? 'Public-Mode' : 'Self-Mode'}\n‚î? *???????* : ${runtime(process.uptime())}\n‚î? *???* : Baileys-Md@4.4.0\n‚ï∞‚îÄ‚¨£\n\n‚ï≠‚îÄ‚¨£„Ä? _*INDIAN DATE ?*_ „Äç‚¨£\n‚î? *?????* : ${week}\n‚î? *????* : ${date}\n‚î?   \n‚ï∞‚îÄ‚¨£`, `¬© ${ownername}`, `??? ${pushname} ‚ò∫Ô∏è`, `CLICK HERE`, {
+               sendListMenu(alpha, m.chat, `‚ï≠‚îÄ‚¨£„Ä? _*INFO USER*_ „Äç‚¨£\n‚î?  *Name* : ${pushname}\n‚î?  *Number* : ${sender.split("@")[0]}\n‚î?  *Status* : ${isCreator? ` OwnerÔ∏? ${botname}` :`User ${botname}`}\n‚ï∞‚îÄ‚¨£\n\n‚ï≠‚îÄ‚¨£„Ä? _*INFO BOT*_ „Äç‚¨£\n‚î? *Prefix* :  ${prefix} \n‚î? *Name* : ${botname}\n‚î? *Owner* : ${ownername}\n‚î? *Mode* : ${alpha.public ? 'Public-Mode' : 'Self-Mode'}\n‚î? *Runtime* : ${runtime(process.uptime())}\n‚î? *Lib* : Baileys-Md@4.4.0\n‚ï∞‚îÄ‚¨£\n\n‚ï≠‚îÄ‚¨£„Ä? _*INDIAN DATE*_ „Äç‚¨£\n‚î? *Today* : ${week}\n‚î? *DATE* : ${date}\n‚î? *Wit* : ${wit}  \n‚ï∞‚îÄ‚¨£`, `¬© ${ownername}`, `Hello ${pushname} ‚ò∫Ô∏è`, `CLICK HERE`, {
                   quoted: fgif
                })
             }
