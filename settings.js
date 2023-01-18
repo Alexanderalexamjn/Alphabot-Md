@@ -40,7 +40,7 @@ global.email = "MdBot@gmail.com" //bebas
 global.region = "India" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['918590822912'] //premium user
-global.owner = ["918593074023", "622150996855"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["918593074023", "918593074023"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "918593074023" // nomor wa kalian
 global.ownernomerr = "+918593074023" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
@@ -50,7 +50,7 @@ global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '© Md-Bot' //sticker wm ubah
 global.author = 'Dominic' //sticker wm ganti nama kalian
 global.sessionName = 'session'
-global.typemenu = 'katalog'
+global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
    premium: "10000",
@@ -119,7 +119,7 @@ global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutpu
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
-global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
+global.prefa = ['', '!', '.', '🐦', '🐤', '🦋']
 global.sp = '⭔'
 global.mess = {
    sukses: 'ꜱᴜᴄᴄᴇꜱꜱ',
