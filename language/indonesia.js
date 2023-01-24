@@ -729,9 +729,9 @@ i'm ${botname}, this bot is Whatsapp Multi-Device Beta.
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
-    return `*Selamat ${salam} ${pushname}*
+    return `*Hello 🤗 ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Whatsapp-Md :*
 
 ╭─❒ 「 Bot Info 」 
 │○ !owner
@@ -895,7 +895,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 │○ !setpppanjanggc
 │○ !revoke
 │○ !leave
-│○ !add [62***]
+│○ !add [91***]
 │○ !kick @tag
 │○ !leave
 │○ !linkgc
@@ -1738,7 +1738,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 │○ Nurutomo
 │○ Rashid
 │○ ZeeoneOfc
-│○ Penyedia Module
+│○ Dominic
 ╰❒ And All Support
     `
 }
@@ -1747,27 +1747,27 @@ exports.rules = (prefix) => {
     return `
 *── 「 RULES AND FAQ 」 ──*
 
-1. Jangan spam bot. 🙅
-2. Jangan telepon bot. ☎️
-3. Jangan membandingkan bot 👍
+1. Do not spam bots. 🙅
+2. Do not call bots. ☎️
+3. Don't compare bots 👍
 
-🗯️ Bot tidak atau lambat merespon ?
-➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
+🗯️ Bots don't or slow to respond?
+➡️ Maybe influenced by network, signal, banned by Whatsapp and some random reasons.
 
-🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
+🗯️ Where can I get the Script from this bot?
+➡️ You can get this script on Dominic's wa
 
-🗯️ Boleh saya menambah ke grup?
-➡️ Untuk itu tergantung dari owner bot sendiri
+🗯️ May I add to the group?
+➡️ For that it depends on the bot owner himself
 
-🗯️ Prefixnya apa ya?
-➡️ Bot ini menggunakan multi prefix & bisa kamu gunakan tanpa prefix
+🗯️ What's the prefix?
+➡️ This bot uses multi prefix & you can use it without prefix
 
-Jika sudah dipahami rules-nya, silakan ketik *${prefix}menu* untuk memulai!
+If you understand the rules, please type *${prefix}menu* to get started!
 
-⚠️ Segala kebijakan dan ketentuan bot dapat berubah kapan saja 
+⚠️ All bot policies and conditions are subject to change at any time
 
-Terimakasih! 
+Thank you!
 `
 }
 exports.welcome = () =>{
@@ -1786,8 +1786,8 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://s.id/YouTube-Zeeoneofc
+Base : https://github.com/Dominic/Md-Bot
+Owner : http://wa.me/918593074023
 `
 }
 exports.tos = (ownernomer) => {
